@@ -23,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Shashank17singh/LeetCode/tree/master/0223-rectangle-area) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shashank17singh/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Shashank17singh/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
