@@ -1,14 +1,17 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        string str=to_string(n);
-        long sum=0;
-        str.erase(remove(str.begin(), str.end(), '0'), str.end());
-        for(int i=0;i<str.size();i++){
-            sum+=str[i]-'0';
+        long long x=0;
+        int r=1;
+        int sum_digits=0;
+        while(n>0){
+            int d=n%10;
+            n/=10;
+            if(d==0) continue;
+            x=d*r+x;
+            sum_digits+=d;
+            r*=10;
         }
-        if(str.empty()) return 0;
-        long x=stoll(str);
-        return x*sum;
+        return x*sum_digits;
     }
 };
