@@ -1,11 +1,9 @@
 class Solution {
 public:
     vector<int> findDegrees(vector<vector<int>>& matrix) {
-        int n=matrix.size();
-        vector<int>ans(n,0);
-        for(int i=0;i<n;i++){
-            ans[i]=count(matrix[i].begin(),matrix[i].end(),1);
-        }
+        vector<int> ans;
+        ans.reserve(matrix.size()); // Optimization: Pre-allocate memory to avoid reallocations
+        for(const auto &i:matrix) ans.push_back(accumulate(i.begin(),i.end(),0));
         return ans;
     }
 };
