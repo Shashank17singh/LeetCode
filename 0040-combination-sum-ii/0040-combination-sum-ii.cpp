@@ -1,7 +1,10 @@
 class Solution {
 public:
     void fun(vector<int>&arr,int n,int idx,vector<int>&diary,int sum,vector<vector<int>>&res,int target){
-        if(sum==target) res.push_back(diary);
+        if(sum==target){
+            res.push_back(diary);
+            return;
+        }
         if(sum>target) return;
         for(int i=idx;i<n;i++){
             if(i>idx && arr[i-1]==arr[i]) continue;
