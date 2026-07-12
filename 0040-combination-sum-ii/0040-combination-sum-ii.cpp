@@ -24,7 +24,6 @@ public:
         vector<int>diary;
         vector<vector<int>>res;
         fun(candidates,n,0,diary,0,res,target);
-        sort(res.begin(),res.end());
         return res;
     }
 };
