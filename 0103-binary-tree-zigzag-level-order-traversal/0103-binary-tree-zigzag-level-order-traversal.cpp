@@ -16,20 +16,28 @@ public:
         vector<vector<int>>res;
         queue<TreeNode*>q;
         q.push(root);
-        bool leftToRight = true;
+        bool leftToRight=1;
         while(!q.empty()){
             int lvlsize=q.size();
-            vector<int>tmp;
+            vector<int>tmp(lvlsize);
+            int first=0;
+            int last=lvlsize-1;
             while(lvlsize--){
                 TreeNode* t=q.front();
                 q.pop();
-                tmp.push_back(t->val);
+                if(leftToRight==true){
+                    tmp[first]=t->val;
+                    first++;
+                }
+                else{
+                    tmp[last]=t->val;
+                    last--;
+                }
                 if(t->left!=NULL) q.push(t->left);
                 if(t->right!=NULL) q.push(t->right);
             }
-            if(!leftToRight) reverse(tmp.begin(), tmp.end());
-            leftToRight = !leftToRight;
             res.push_back(tmp);
+            leftToRight=1-leftToRight;
         }
         return res;
     }
