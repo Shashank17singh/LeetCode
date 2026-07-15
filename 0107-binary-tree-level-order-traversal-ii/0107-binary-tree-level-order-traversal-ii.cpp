@@ -28,7 +28,13 @@ public:
             }
             res.push_back(tmp);
         }
-        reverse(res.begin(),res.end());
+        int l=0;
+        int r=res.size()-1;
+        while(l<r){
+            swap(res[l],res[r]);
+            l++;
+            r--;
+        } 
         return res;
     }
 };
