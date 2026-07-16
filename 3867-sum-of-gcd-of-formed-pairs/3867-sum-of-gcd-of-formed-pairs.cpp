@@ -12,7 +12,7 @@ public:
         }
         sort(prefixGcd.begin(),prefixGcd.end());
         int first=0;
-        int last=prefixGcd.size()-1;
+        int last=n-1;
         long long sum=0;
         while(first<last){
             sum=sum+gcd(prefixGcd[first],prefixGcd[last]);
