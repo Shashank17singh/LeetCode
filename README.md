@@ -35,6 +35,7 @@ A collection of LeetCode questions.
 | [0223-rectangle-area](https://github.com/Shashank17singh/LeetCode/tree/master/0223-rectangle-area) |
 | [0509-fibonacci-number](https://github.com/Shashank17singh/LeetCode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shashank17singh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank17singh/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shashank17singh/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shashank17singh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
