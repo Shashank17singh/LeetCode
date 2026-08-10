@@ -9,10 +9,11 @@
  */
 class Solution {
 public:
-    int fun(TreeNode* root,TreeNode* p, TreeNode* q, TreeNode* &ans){
+    TreeNode* ans=NULL;
+    int fun(TreeNode* root,TreeNode* p, TreeNode* q){
         if(root==NULL) return 0;
-        int left=fun(root->left,p,q,ans);
-        int right=fun(root->right,p,q,ans);
+        int left=fun(root->left,p,q);
+        int right=fun(root->right,p,q);
         int self=0;
         if(root==p || root==q) self=1;
         int total=left+right+self;
@@ -20,9 +21,7 @@ public:
         return total;
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* ans=NULL;
-        fun(root,p,q,ans);
-        return ans;
-        
+        fun(root,p,q);
+        return ans; 
     }
 };
