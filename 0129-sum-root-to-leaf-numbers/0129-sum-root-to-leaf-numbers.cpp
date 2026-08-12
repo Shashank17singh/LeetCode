@@ -17,12 +17,12 @@ public:
         sum=sum*10+root->val;
         if(root->left==NULL && root->right==NULL){
             res.push_back(sum);
-            sum=0;
         }
         fun(root->left,sum);
         fun(root->right,sum);
     }
     int sumNumbers(TreeNode* root) {
+        res.clear();
         fun(root,0);
         int ans=0;
         for(int i=0;i<res.size();i++){
