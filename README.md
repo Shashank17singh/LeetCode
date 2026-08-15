@@ -193,4 +193,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shashank17singh/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
