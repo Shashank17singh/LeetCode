@@ -9,6 +9,7 @@ A collection of LeetCode questions.
 | [0001-two-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions.
 | [0001-two-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank17singh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank17singh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions.
 | [0101-symmetric-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0113-path-sum-ii) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions.
 | [0101-symmetric-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0113-path-sum-ii) |
@@ -201,4 +205,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shashank17singh/LeetCode/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
