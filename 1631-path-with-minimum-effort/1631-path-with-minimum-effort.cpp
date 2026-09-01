@@ -7,11 +7,7 @@ public:
     int minimumEffortPath(vector<vector<int>>& heights) {
         int n=heights.size();
         int m=heights[0].size();
-        vector<vector<int>>res(n);
-        for(int i=0;i<n;i++){
-            vector<int>t(m,INT_MAX);
-            res[i]=t;
-        }
+        vector<vector<int>>res(n,vector<int>(m,INT_MAX));
         priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
         int x[4]={-1,1,0,0};
         int y[4]={0,0,-1,1};
