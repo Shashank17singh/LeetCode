@@ -56,6 +56,7 @@ A collection of LeetCode questions.
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashank17singh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shashank17singh/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -135,6 +136,7 @@ A collection of LeetCode questions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashank17singh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -173,6 +175,7 @@ A collection of LeetCode questions.
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashank17singh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
@@ -249,9 +252,15 @@ A collection of LeetCode questions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
