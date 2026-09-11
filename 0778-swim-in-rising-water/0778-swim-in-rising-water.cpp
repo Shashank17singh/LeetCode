@@ -11,8 +11,7 @@ public:
         int y[4]={0,0,-1,1};
        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
        vector<vector<int>>res(n);
-       int i;
-       for(i=0;i<n;i++){
+       for(int i=0;i<n;i++){
         vector<int>t(m,1e8);
         res[i]=t;
        }
