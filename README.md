@@ -13,6 +13,7 @@ A collection of LeetCode questions.
 | [0130-surrounded-regions](https://github.com/Shashank17singh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shashank17singh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shashank17singh/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions.
 | [0543-diameter-of-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shashank17singh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -180,6 +183,7 @@ A collection of LeetCode questions.
 | [0226-invert-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shashank17singh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
@@ -244,6 +249,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shashank17singh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Shashank17singh/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Coloring
@@ -258,14 +264,20 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shashank17singh/LeetCode/tree/master/0743-network-delay-time) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
