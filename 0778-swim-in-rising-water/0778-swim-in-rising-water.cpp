@@ -10,11 +10,7 @@ public:
         int x[4]={-1,1,0,0};
         int y[4]={0,0,-1,1};
        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
-       vector<vector<int>>res(n);
-       for(int i=0;i<n;i++){
-        vector<int>t(m,1e8);
-        res[i]=t;
-       }
+       vector<vector<int>>res(n,vector<int>(m,1e8));
        pq.push({grid[0][0],{0,0}});
        res[0][0]=grid[0][0];
        while(!pq.empty()){
