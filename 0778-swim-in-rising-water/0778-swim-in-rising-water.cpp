@@ -9,11 +9,7 @@ public:
         int x[4]={-1,1,0,0};
         int y[4]={0,0,-1,1};
         queue<pair<int,int>>q;
-        vector<vector<int>>vis(n);
-        for(i=0;i<n;i++){
-            vector<int>t(m,0);
-            vis[i]=t;
-        }
+        vector<vector<int>>vis(n,vector<int>(m,0));
         q.push({0,0});
         vis[0][0]=1;
         while(!q.empty()){
