@@ -28,6 +28,7 @@ A collection of LeetCode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank17singh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank17singh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashank17singh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank17singh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/Shashank17singh/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shashank17singh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -286,4 +289,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
