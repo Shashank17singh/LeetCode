@@ -4,11 +4,8 @@ public:
         if(i==n) return 1;
         if(i>n) return 0;
         if (dp[i]!=-1) return dp[i];
-        int a1=fun(i+1,n,dp);
-        int a2=fun(i+2,n,dp);
-        int ans=a1+a2;
-        dp[i]=ans;
-        return ans;
+        dp[i]=fun(i+1,n,dp)+fun(i+2,n,dp);
+        return fun(i+1,n,dp)+fun(i+2,n,dp);
     }
     int climbStairs(int n) {
         vector<int>dp(n+1,-1);
