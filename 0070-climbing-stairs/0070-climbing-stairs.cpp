@@ -12,7 +12,6 @@ public:
         return ans;
     }
     int climbStairs(int n) {
-        int i;
-        return fun(i,n);
+        return fun(0,n);
     }
 };
