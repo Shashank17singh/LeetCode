@@ -1,7 +1,6 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        if(n<=1) return n;
         int prev_prev=0;
         int prev=1;
         int ans;
