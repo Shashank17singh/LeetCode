@@ -16,6 +16,7 @@ A collection of LeetCode questions.
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions.
 | [0070-climbing-stairs](https://github.com/Shashank17singh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shashank17singh/LeetCode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shashank17singh/LeetCode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shashank17singh/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
@@ -106,6 +108,7 @@ A collection of LeetCode questions.
 | [0039-combination-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -307,8 +310,10 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
