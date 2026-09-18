@@ -16,7 +16,7 @@ public:
     }
     bool canPartition(vector<int>& nums) {
         int sum=0;
-        for(int i=0;i<nums.size();i++) sum=sum+nums[i];
+        for(int i=0;i<nums.size();i++) sum+=nums[i];
         if(sum%2==1) return false;
         else return fun(nums,sum/2);
     }
