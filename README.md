@@ -44,6 +44,7 @@ A collection of LeetCode questions.
 | [0022-generate-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/Shashank17singh/LeetCode/tree/master/0412-fizz-buzz) |
+| [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions.
 | [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shashank17singh/LeetCode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shashank17singh/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -323,4 +325,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
