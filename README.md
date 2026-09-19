@@ -52,6 +52,7 @@ A collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shashank17singh/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shashank17singh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/Shashank17singh/LeetCode/tree/master/0223-rectangle-area) |
 | [0412-fizz-buzz](https://github.com/Shashank17singh/LeetCode/tree/master/0412-fizz-buzz) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Shashank17singh/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shashank17singh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shashank17singh/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shashank17singh/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
