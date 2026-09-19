@@ -13,7 +13,6 @@ public:
             int c2=fun(a,n,i+1,k,dp);
             return dp[i][k]=max(c1,c2);
         }
-        return 0;
     }
     int maxProfit(vector<int>& prices) {
         int buy1 = -prices[0];
