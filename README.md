@@ -24,6 +24,7 @@ A collection of LeetCode questions.
 | [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions.
 | [0509-fibonacci-number](https://github.com/Shashank17singh/LeetCode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shashank17singh/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashank17singh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
