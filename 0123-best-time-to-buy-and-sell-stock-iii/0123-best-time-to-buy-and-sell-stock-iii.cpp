@@ -15,19 +15,9 @@ public:
         }
     }
     int maxProfit(vector<int>& prices) {
-        int buy1 = -prices[0];
-        int sell1 = 0;
-        int buy2 = -prices[0];
-        int sell2 = 0;
-
-        for (int i = 1; i < prices.size(); i++) {
-            int price = prices[i];
-            buy1 = max(buy1, -price);
-            sell1 = max(sell1, buy1 + price);
-            buy2 = max(buy2, sell1 - price);
-            sell2 = max(sell2, buy2 + price);
-        }
-
-        return sell2;
+        int n=prices.size();
+        int k=4;
+        vector<vector<int>>dp(n+1,vector<int>(k+1,-1));
+        return fun(prices,n,0,k,dp);
     }
 };
