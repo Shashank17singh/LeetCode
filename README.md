@@ -19,6 +19,7 @@ A collection of LeetCode questions.
 | [0198-house-robber](https://github.com/Shashank17singh/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions.
 | [0062-unique-paths](https://github.com/Shashank17singh/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shashank17singh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/Shashank17singh/LeetCode/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shashank17singh/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shashank17singh/LeetCode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashank17singh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -267,6 +271,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -357,4 +362,5 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Shashank17singh/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
