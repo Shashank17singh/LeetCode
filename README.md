@@ -25,6 +25,7 @@ A collection of LeetCode questions.
 | [0416-partition-equal-subset-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0494-target-sum) |
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/Shashank17singh/LeetCode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/Shashank17singh/LeetCode/tree/master/0860-lemonade-change) |
 ## Bit Manipulation
 |  |
 | ------- |
