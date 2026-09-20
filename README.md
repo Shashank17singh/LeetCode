@@ -282,6 +282,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/Shashank17singh/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Union-Find
 |  |
 | ------- |
@@ -350,4 +351,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Shashank17singh/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
