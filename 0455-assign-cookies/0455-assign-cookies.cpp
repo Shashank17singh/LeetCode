@@ -13,7 +13,7 @@ public:
                 j++;
                 cnt++;
             }
-            else if(s[j]<g[i]) j++;
+            else j++;
         }
         return cnt;
     }
