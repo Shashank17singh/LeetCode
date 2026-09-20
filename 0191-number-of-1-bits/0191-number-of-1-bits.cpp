@@ -2,9 +2,10 @@ class Solution {
 public:
     int hammingWeight(int n) {
         string ans;
-        while(n>0){
-            ans=ans+to_string(n%2);
-            n=n/2;
+        unsigned int a=n;
+        while(a>0){
+            ans=ans+to_string(a%2);
+            a=a/2;
         }
         int cnt=0;
         for(int i=0;i<ans.size();i++) {
