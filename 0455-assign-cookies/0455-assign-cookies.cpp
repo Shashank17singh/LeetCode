@@ -8,12 +8,13 @@ public:
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
         while(j<m && i<n){
-            if(s[j]>=g[i]){
-                i++;
+            if(s[j]>=g[i]) cnt++;
+            else{
                 j++;
-                cnt++;
+                continue;
             }
-            else j++;
+            i++;
+            j++;
         }
         return cnt;
     }
