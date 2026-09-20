@@ -8,6 +8,6 @@ public:
             reach=max(reach,i+nums[i]);
             if(reach>=n-1) return true;
         }
-        return true;
+        return false;
     }
 };
