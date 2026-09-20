@@ -8,9 +8,7 @@ public:
             a=a/2;
         }
         int cnt=0;
-        for(int i=0;i<ans.size();i++) {
-            if(ans[i]=='1') cnt++;
-        }
+        for(int i=0;i<ans.size();i++) if(ans[i]=='1') cnt++;
         return cnt;
     }
 };
