@@ -9,6 +9,7 @@ A collection of LeetCode questions.
 | [0001-two-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/Shashank17singh/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Shashank17singh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashank17singh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Shashank17singh/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shashank17singh/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shashank17singh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashank17singh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shashank17singh/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Shashank17singh/LeetCode/tree/master/0860-lemonade-change) |
