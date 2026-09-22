@@ -1,19 +1,23 @@
 class Solution {
 public:
-    int a=0;
-    int fun(int &num){
-        vector<int>res;
-        while(num>0){
-            res.push_back(num%10);
-            num=num/10;
-        }
-        int n=res.size();
-        for(int i=0;i<n;i++) a+=res[i];
-        if(a>9) fun(a);
-        return a;
-    }
     int addDigits(int num) {
+        int sum=0;
         if(num==0) return 0;
-        return fun(num);
+        else{
+            while(num>0){
+                sum+=num%10;
+                num=num/10;
+            }
+            num=sum;
+            while(num>9){
+                sum=0;
+                while(num>0){
+                    sum+=num%10;
+                    num=num/10;
+                }
+                num=sum;
+            }
+        }
+        return num;
     }
 };
