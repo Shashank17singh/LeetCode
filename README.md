@@ -31,6 +31,7 @@ A collection of LeetCode questions.
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions.
 | [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/Shashank17singh/LeetCode/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
