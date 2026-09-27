@@ -80,6 +80,7 @@ A collection of LeetCode questions.
 | [2769-find-the-maximum-achievable-number](https://github.com/Shashank17singh/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashank17singh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shashank17singh/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shashank17singh/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank17singh/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shashank17singh/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions.
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shashank17singh/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
