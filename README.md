@@ -31,6 +31,7 @@ A collection of LeetCode questions.
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/Shashank17singh/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions.
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/Shashank17singh/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shashank17singh/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
