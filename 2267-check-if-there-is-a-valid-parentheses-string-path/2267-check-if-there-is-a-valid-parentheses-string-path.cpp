@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool fun(int i,int j,int cnt,int n,int m,vector<vector<char>>& grid,vector<vector<vector<int>>>&dp){
-        if(cnt<0) return false;
         if(i<0 || i>=n || j<0 || j>=m) return false;
         if(grid[i][j]=='(') cnt++;
         else cnt--;
