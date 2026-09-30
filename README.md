@@ -17,6 +17,7 @@ A collection of LeetCode questions.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shashank17singh/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Shashank17singh/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Shashank17singh/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shashank17singh/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shashank17singh/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashank17singh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashank17singh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashank17singh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shashank17singh/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Union-Find
 |  |
@@ -414,4 +418,12 @@ A collection of LeetCode questions.
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shashank17singh/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
