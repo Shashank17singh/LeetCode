@@ -43,6 +43,7 @@ A collection of LeetCode questions.
 | [3875-construct-uniform-parity-array-i](https://github.com/Shashank17singh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shashank17singh/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Shashank17singh/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Shashank17singh/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -436,4 +437,5 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Shashank17singh/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Shashank17singh/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
