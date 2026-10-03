@@ -42,6 +42,7 @@ A collection of LeetCode questions.
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shashank17singh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shashank17singh/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/Shashank17singh/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -431,4 +432,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Shashank17singh/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
