@@ -54,6 +54,7 @@ A collection of LeetCode questions.
 | [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shashank17singh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions.
 | [0020-valid-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Shashank17singh/LeetCode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/Shashank17singh/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Shashank17singh/LeetCode/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions.
 | [0088-merge-sorted-array](https://github.com/Shashank17singh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shashank17singh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shashank17singh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
