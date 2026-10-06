@@ -23,6 +23,7 @@ A collection of LeetCode questions.
 | [0200-number-of-islands](https://github.com/Shashank17singh/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Shashank17singh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Shashank17singh/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shashank17singh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Shashank17singh/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2396-strictly-palindromic-number](https://github.com/Shashank17singh/LeetCode/tree/master/2396-strictly-palindromic-number) |
