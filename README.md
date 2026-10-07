@@ -7,6 +7,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shashank17singh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Shashank17singh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Shashank17singh/LeetCode/tree/master/0055-jump-game) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shashank17singh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Shashank17singh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shashank17singh/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shashank17singh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Shashank17singh/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
