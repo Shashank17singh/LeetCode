@@ -32,6 +32,7 @@ A collection of LeetCode questions.
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/Shashank17singh/LeetCode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Shashank17singh/LeetCode/tree/master/0994-rotting-oranges) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Shashank17singh/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Shashank17singh/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0258-add-digits](https://github.com/Shashank17singh/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shashank17singh/LeetCode/tree/master/0412-fizz-buzz) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Shashank17singh/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
