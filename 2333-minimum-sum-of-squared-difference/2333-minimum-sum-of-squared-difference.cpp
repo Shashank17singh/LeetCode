@@ -4,20 +4,20 @@ public:
         int n=nums1.size();
         long long sum=0;
         vector<long long>f(100001,0);
-        int maxi=0;
+        int max_num=0;
         long long k=(long long)k1+k2;
         for(int i=0;i<n;i++){
-            int smaxi=abs(nums1[i]-nums2[i]);
-            f[smaxi]++;
-            maxi=max(maxi,smaxi);
+            int num=abs(nums1[i]-nums2[i]);
+            f[num]++;
+            max_num=max(max_num,num);
         }  
-        for(int i=maxi;i>0 && k>0;i--){
+        for(int i=max_num;i>0 && k>0;i--){
             long long cnt=min(f[i],k);
             f[i]-=cnt;
             f[i-1]+=cnt;
             k-=cnt;
         }      
-        for(long long i=1;i<=maxi;i++){
+        for(long long i=1;i<=max_num;i++){
             sum+=f[i]*i*i;
         }
         return sum;
