@@ -39,6 +39,7 @@ A collection of LeetCode questions.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shashank17singh/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shashank17singh/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shashank17singh/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions.
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashank17singh/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shashank17singh/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashank17singh/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions.
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shashank17singh/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## DP on Trees
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions.
 | [0778-swim-in-rising-water](https://github.com/Shashank17singh/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shashank17singh/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Shashank17singh/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shashank17singh/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
 ## Dijkstra's Algorithm
 |  |
@@ -412,6 +416,7 @@ A collection of LeetCode questions.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashank17singh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Shashank17singh/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Shashank17singh/LeetCode/tree/master/0860-lemonade-change) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shashank17singh/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
