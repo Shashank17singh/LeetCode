@@ -45,6 +45,7 @@ A collection of LeetCode questions.
 | [2974-minimum-number-game](https://github.com/Shashank17singh/LeetCode/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shashank17singh/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shashank17singh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shashank17singh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shashank17singh/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions.
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashank17singh/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shashank17singh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
