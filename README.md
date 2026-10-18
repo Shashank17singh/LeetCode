@@ -97,6 +97,7 @@ A collection of LeetCode questions.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shashank17singh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shashank17singh/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/Shashank17singh/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shashank17singh/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashank17singh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shashank17singh/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0258-add-digits](https://github.com/Shashank17singh/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Shashank17singh/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashank17singh/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashank17singh/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -310,6 +312,7 @@ A collection of LeetCode questions.
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Shashank17singh/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shashank17singh/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashank17singh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Lifting
@@ -459,4 +462,12 @@ A collection of LeetCode questions.
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Shashank17singh/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shashank17singh/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shashank17singh/LeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Shashank17singh/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
