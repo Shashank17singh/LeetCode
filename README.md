@@ -89,6 +89,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shashank17singh/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Shashank17singh/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shashank17singh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/Shashank17singh/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Shashank17singh/LeetCode/tree/master/0258-add-digits) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shashank17singh/LeetCode/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shashank17singh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Shashank17singh/LeetCode/tree/master/0268-missing-number) |
@@ -474,4 +476,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Shashank17singh/LeetCode/tree/master/2427-number-of-common-factors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shashank17singh/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
