@@ -81,6 +81,7 @@ A collection of LeetCode questions.
 | [1143-longest-common-subsequence](https://github.com/Shashank17singh/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shashank17singh/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Shashank17singh/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shashank17singh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shashank17singh/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashank17singh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shashank17singh/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Shashank17singh/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Shashank17singh/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shashank17singh/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashank17singh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
